@@ -1,0 +1,2 @@
+# magicemailtemplete
+image to email
